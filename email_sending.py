@@ -26,3 +26,5 @@ smtpObj.sendmail('the_classic7@hotmail.com',person,'subject:'+ message + '\nsent
 print('successfully sent...')
 print('quitting')
 smtpObj.quit()
+
+# today test
